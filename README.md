@@ -2,7 +2,7 @@
 
 This repository contains my frontend development practice work.
 
-## Project
+## Projects
 
 ### Personal Profile Page
 
@@ -16,6 +16,10 @@ The webpage includes:
 * Skills
 * LinkedIn profile
 * GitHub profile
+
+### Time Table
+
+A simple timetable of a college student using HTML5 using table tag.
 
 ## Technologies Used
 
