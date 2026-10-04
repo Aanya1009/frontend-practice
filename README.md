@@ -1,38 +1,100 @@
 # Frontend Practice
 
-This repository contains my frontend development practice work.
+This repository contains my frontend development practice projects created while learning HTML and web development.
 
 ## Projects
 
-### Personal Profile Page
+### 1. Personal Profile Page
 
 A simple personal profile webpage created using HTML5.
 
-The webpage includes:
+**Features:**
+- Personal introduction
+- Profile picture
+- Hobbies
+- Skills
+- LinkedIn profile
+- GitHub profile
 
-* Personal introduction
-* Profile picture
-* Hobbies
-* Skills
-* LinkedIn profile
-* GitHub profile
+**Technology Used:**
+- HTML5
 
-### Time Table
+---
 
-A simple timetable of a college student using HTML5 using table tag.
+### 2. College Timetable
+
+A college timetable webpage created using HTML tables.
+
+**Features:**
+- Days and time slots
+- Different subjects for each day
+- Table borders
+- Organized timetable structure
+
+**Technology Used:**
+- HTML5
+- Tables (`table`, `tr`, `th`, `td`)
+
+---
+
+### 3. Student Registration Form
+
+A student registration form created using HTML5 form elements.
+
+**Features:**
+- Full Name
+- Email
+- Password
+- Age
+- Gender
+- Course selection
+- Hobbies
+- Date of Birth
+- Address
+- Profile photo upload
+- Terms and Conditions
+- Submit and Reset buttons
+
+**Technology Used:**
+- HTML5
+- Forms
+- Input elements
+- Select dropdown
+- Checkboxes
+- Radio buttons
+- Textarea
+
+---
 
 ## Technologies Used
 
-* HTML5
+- HTML5
+- HTML Forms
+- HTML Tables
+- Semantic HTML
+
+## Repository Structure
+
+frontend-practice/
+│
+├── index.html
+├── pfp.jpeg
+├── README.md
+│
+├── timetable/
+│   └── index.html
+│
+└── student-registration/
+    └── index.html
 
 ## How to Run
+Open any project's `index.html` file in a web browser or run it using VS Code Live Server.
 
-1. Download or clone this repository.
-2. Open `index.html` in a web browser.
+## Learning Goals
+This repository is part of my frontend development learning journey.
 
-## Author
+I am practicing HTML fundamentals and building small projects to strengthen my understanding of web development. I will continue adding projects as I learn CSS, JavaScript, and modern frontend technologies.
 
-**Aanya Pahwa**
-
-GitHub: [Aanya1009](https://github.com/Aanya1009)
-
+# Author
+Aanya Pahwa
+GitHub: Aanya1009
